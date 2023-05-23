@@ -5,4 +5,4 @@ Sourced from etymology.com descriptions -- no copyright infringement intended. V
 
 Short descriptions scraped and tagged for either Germanic (Old English, German, Norse) or Latinate (Latin, French) word origins.
 
-Please feel free to use with credit. (C) "Etymology lexicon", Catherine Moez, March 16, 2023. https://github.com/catmoez/EtymologyLexicon/
+Please feel free to use with credit. (C) "Etymology Lexicon", Catherine Moez, March 16, 2023. https://github.com/catmoez/EtymologyLexicon/
